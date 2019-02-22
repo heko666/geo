@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features":[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.954653913,45.7718936]
+    },
+    "properties":{
+      "name": "Station 3878"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.971300919,45.76980732]
+    },
+    "properties":{
+      "name": "Station 4089"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.954653913,45.7718936],
+      [4.971300919,45.76980732]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  }
+  ]
+}

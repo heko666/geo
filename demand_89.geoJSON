@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features":[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.998389664,45.77203681]
+    },
+    "properties":{
+      "name": "Station 3813"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.999932383,45.77921048]
+    },
+    "properties":{
+      "name": "Station 3022"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.998389664,45.77203681],
+      [4.999932383,45.77921048]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.998389664,45.77203681]
+    },
+    "properties":{
+      "name": "Station 3813"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[5.008317527,45.76196173]
+    },
+    "properties":{
+      "name": "Station 4910"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.998389664,45.77203681],
+      [5.008317527,45.76196173]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.990965462,45.78026722]
+    },
+    "properties":{
+      "name": "Station 2916"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[5.009092858,45.78355012]
+    },
+    "properties":{
+      "name": "Station 2534"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.990965462,45.78026722],
+      [5.009092858,45.78355012]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.954653913,45.7718936]
+    },
+    "properties":{
+      "name": "Station 3878"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.964652927,45.76362127]
+    },
+    "properties":{
+      "name": "Station 4777"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.954653913,45.7718936],
+      [4.964652927,45.76362127]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.954653913,45.7718936]
+    },
+    "properties":{
+      "name": "Station 3878"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.959480498,45.76281004]
+    },
+    "properties":{
+      "name": "Station 4872"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.954653913,45.7718936],
+      [4.959480498,45.76281004]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.999578587,45.76931574]
+    },
+    "properties":{
+      "name": "Station 4111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[4.990421194,45.76497528]
+    },
+    "properties":{
+      "name": "Station 4599"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[4.999578587,45.76931574],
+      [4.990421194,45.76497528]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[5.033856863,45.75700934]
+    },
+    "properties":{
+      "name": "Station 5425"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates":[5.012334753,45.76639144]
+    },
+    "properties":{
+      "name": "Station 4418"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry":{
+      "type":"LineString",
+      "coordinates":[[5.033856863,45.75700934],
+      [5.012334753,45.76639144]]
+    },
+    "properties":{
+      "prop0": "travel"
+    }
+  }
+  ]
+}
